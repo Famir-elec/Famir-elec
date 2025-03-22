@@ -31,7 +31,7 @@
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/Famir-elec">
-  <img src="https://github.com/Famir-elec/Famir-elec/blob/main/icons8-instagram-logo-96.png?raw=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Famir-elec&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famir-elec" />
 </a>
 
