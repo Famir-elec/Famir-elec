@@ -38,7 +38,7 @@
 <h2>📞 &nbsp; Connct Me </h2>
 
 <a href="https://instagram.com/famir_eng"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+<a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="https://github.com/Famir-elec/Famir-elec/blob/main/icons8-telegram-96.png?raw=true" /></a>
 
 <br />
 
