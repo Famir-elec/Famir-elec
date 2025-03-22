@@ -38,7 +38,7 @@
 <h2>📞 &nbsp; Connct Me </h2>
 
 <a href="https://instagram.com/famir_eng"><img width="50px" height="50px" align="left" src="https://github.com/Famir-elec/Famir-elec/blob/main/icons8-instagram-logo-96.png?raw=true" /></a>
-<a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="https://github.com/Famir-elec/Famir-elec/blob/main/icons8-telegram-96.png?raw=true" /></a>
+<a href="https://t.me/Famir_eng83"><img width="50px" height="50px"  align="left" src="https://github.com/Famir-elec/Famir-elec/blob/main/icons8-telegram-96.png?raw=true" /></a>
 
 <br />
 
